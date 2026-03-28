@@ -86,11 +86,9 @@ plt.title("actual v predicted using sgd regressor")
 plt.plot([min(y_test),max(y_test)], [min(y_test),max(y_test)],color='red')
 plt.show()
 ```    
-
 ## Output:
-![alt text](image.png)
 <img width="696" height="269" alt="Screenshot 2026-03-28 094000" src="https://github.com/user-attachments/assets/8f23d70a-daf0-429f-a7a5-baa6dc3b02bf" />
-
+![alt text](image.png)
 
 
 ## Result:
