@@ -12,9 +12,6 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 1. Import necessary libraries (pandas, numpy, sklearn, matplotlib).
 2. Load the dataset using pandas.
 3. Preprocess the data:
-
-   * Drop unnecessary columns (e.g., CarName, car\_ID).
-   * Convert categorical variables using one-hot encoding.
 4. Split the dataset into features (X) and target (Y), then into training and testing sets.
 5. Standardize the features and target using StandardScaler.
 6. Initialize the SGDRegressor model with appropriate parameters.
@@ -89,8 +86,6 @@ plt.show()
 ## Output:
 <img width="696" height="269" alt="Screenshot 2026-03-28 094000" src="https://github.com/user-attachments/assets/8f23d70a-daf0-429f-a7a5-baa6dc3b02bf" />
 <img width="553" height="433" alt="Screenshot 2026-03-28 094231" src="https://github.com/user-attachments/assets/90c76b51-607f-4855-9557-4ce81ea55f3e" />
-
-
 
 ## Result:
 Thus, the implementation of Stochastic Gradient Descent (SGD) Regressor for linear regression has been successfully demonstrated and verified using Python programming.
