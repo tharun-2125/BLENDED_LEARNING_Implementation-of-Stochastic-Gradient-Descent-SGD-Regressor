@@ -88,7 +88,8 @@ plt.show()
 ```    
 ## Output:
 <img width="696" height="269" alt="Screenshot 2026-03-28 094000" src="https://github.com/user-attachments/assets/8f23d70a-daf0-429f-a7a5-baa6dc3b02bf" />
-![alt text](image.png)
+<img width="553" height="433" alt="Screenshot 2026-03-28 094231" src="https://github.com/user-attachments/assets/90c76b51-607f-4855-9557-4ce81ea55f3e" />
+
 
 
 ## Result:
